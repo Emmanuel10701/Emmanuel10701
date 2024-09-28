@@ -1,7 +1,18 @@
+<div style="background-image: url('https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg'); 
+            background-size: cover; 
+            background-position: center top; 
+            background-repeat: no-repeat; 
+            height: 300px; 
+            display: flex; 
+            flex-direction: column; 
+            justify-content: center; 
+            align-items: center; 
+            color: white;">
+
 <h1 align="center">Hi 👋, I'm Emmanuel</h1>
 <h3 align="center">A passionate Full stack developer from Kenya, Nairobi</h3>
-
-- 🔭 I’m currently working on **Appointment Doctor**
+</div>
+- 🔭 I’m currently working on **Appointment Doctor System**
 
 - 🌱 I’m Working Project that require **🚀 Full-stack developer | Building modern web apps with Next.js 14 (TypeScript, React) & Django REST API.**
 
