@@ -1,4 +1,4 @@
-<h1 align="center" style="color:#00B300; font-family: Arial, sans-serif;">👋 Hello, I'm Emmanuel</h1>
+m<h1 align="center" style="color:#00B300; font-family: Arial, sans-serif;">👋 Hello, I'm Emmanuel</h1>
 <h3 align="center" style="color:#007BFF; font-family: Arial, sans-serif;">A Passionate Full-Stack Developer from Nairobi, Kenya</h3>
 
 <div align="center" style="background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%); padding: 20px; border-radius: 15px; max-width: 600px; margin: 0 auto;">
@@ -94,7 +94,7 @@
 </div>
 <h3 align="left">GitHub Metrics:</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amosmaru&show_icons=true&locale=en&layout=compact" alt="amosmaru" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Emmanuel10701&show_icons=true&locale=en&layout=compact" alt="EmmanuelJuma" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amosmaru&show_icons=true&locale=en" alt="amosmaru" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Emmanuel10701&show_icons=true&locale=en" alt="EmmanuelJuma" /></p>
 
