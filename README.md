@@ -7,13 +7,17 @@
   <p style="color:#555; font-size: 16px; line-height: 1.6;">
     I'm a  full-stack developer focused on building innovative web applications with a blend of robust front-end and back-end technologies. Some of my latest projects include:
   </p>
-  <ul style="list-style-type: none; padding: 0;">
-    <li style="color: #4C4C4C; font-size: 16px;">🔭 <strong>Appointment Doctor System</strong></li>
-    <li style="color: #4C4C4C; font-size: 16px;">🌱 <strong>Job Hiring Platform</strong></li>
-  </ul>
-  <p style="color:#555; font-size: 16px;">
-    Specializing in building dynamic web applications with <strong style="color:#FF6600;">Next.js 14</strong> (JavaScript, React) and <strong style="color:#FF6600;">Django REST API</strong>, with a focus on clean, maintainable, and scalable code.
-  </p>
+ <ul style="list-style-type: none; padding: 0;">
+  <li style="color: #00B300; font-size: 16px;">🔭 <strong>Appointment Doctor System</strong></li>
+  <li style="color: #00B300; font-size: 16px;">🌱 <strong>Job Hiring Platform</strong></li>
+</ul>
+
+<p style="background-color: #f7f7f7; color: #555; font-size: 16px; padding: 10px; border-radius: 8px; line-height: 1.6;">
+  Specializing in building dynamic web applications with 
+  <strong style="color:#FF6600;">Next.js 14</strong> (JavaScript, React) and 
+  <strong style="color:#FF6600;">Django REST API</strong>, with a focus on clean, maintainable, and scalable code.
+</p>
+
 </div>
 
 <div style="margin-top: 20px; max-width: 600px; margin: 0 auto; text-align: center;">
