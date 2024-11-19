@@ -5,7 +5,7 @@
   
   <h3 style="color:#2E2E2E; font-family: Arial, sans-serif;">About Me</h3>
   <p style="color:#555; font-size: 16px; line-height: 1.6;">
-    I'm a passionate full-stack developer focused on building innovative web applications with a blend of robust front-end and back-end technologies. Some of my latest projects include:
+    I'm a  full-stack developer focused on building innovative web applications with a blend of robust front-end and back-end technologies. Some of my latest projects include:
   </p>
   <ul style="list-style-type: none; padding: 0;">
     <li style="color: #4C4C4C; font-size: 16px;">🔭 <strong>Appointment Doctor System</strong></li>
@@ -35,10 +35,9 @@
   </p>
 </div>
 
-<div style="margin-top: 20px; background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%); padding: 20px; border-radius: 15px; max-width: 600px; margin: 0 auto;">
-  
+<div style="text-align: center; background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%); padding: 20px; border-radius: 15px; margin: 20px auto; max-width: 800px;">
   <h3 style="color:#2E2E2E; font-family: Arial, sans-serif;">Languages and Tools</h3>
-  <p align="center">
+  <p>
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C Programming" width="40" height="40" style="margin: 10px;"/>
     </a>
@@ -72,11 +71,9 @@
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" style="margin: 10px;"/>
     </a>
-
     <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
       <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40" style="margin: 10px;"/>
     </a>
-    
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
       <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40" style="margin: 10px;"/>
     </a>
@@ -85,6 +82,7 @@
     </a>
   </p>
 </div>
+
 <h3 align="left">GitHub Metrics:</h3>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Emmanuel10701&show_icons=true&locale=en&layout=compact" alt="EmmanuelJuma" /></p>
