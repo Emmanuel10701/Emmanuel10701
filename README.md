@@ -30,10 +30,10 @@
 
   <h3 style="color:#2E2E2E; font-family: Arial, sans-serif;">Connect with Me</h3>
   <p>
-    <a href="https://linkedin.com/in/emmanuel-makau" target="_blank" style="margin-right: 10px;">
+    <a href="https://www.linkedin.com/in/emmanuel-makau-40a12028b/" target="_blank" style="margin-right: 10px;">
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="30"/>
     </a>
-    <a href="https://stackoverflow.com/users/emmanuel-makau" target="_blank" style="margin-left: 10px;">
+    <a href="https://stackoverflow.com/users/26565337/emmanuel-makau" target="_blank" style="margin-left: 10px;">
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="30"/>
     </a>
   </p>
