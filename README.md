@@ -30,13 +30,13 @@
 
   ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30" /> My Recent Projects 
 
- 1. [Vet management system](https://vet-management-system.vercel.app/)
- 2. [Movies website](https://react-movies-lac.vercel.app/)
- 3. [Photo search gallery](https://next-gallery-johnmwendwa.vercel.app/)
- 4. [Time tracking dashboard](https://johnmwendwa.github.io/time-tracking-dashboard/)
+ 1. [Full stack E_commerce  system](https://e-commerce-market-site.vercel.app/)
+ 2. [ Full stack Apartment rental listings website](https://apartments-site-rental.vercel.app/)
+ 3. [Full stack doctors Appointments System](https://healthcare-project-sepia.vercel.app/)
+ 4. [My Portfolio ](https://portfolio-zeta-tawny-92.vercel.app/)
  5. [Blog for all developers](https://developers-home.vercel.app/)
- 6. [Multi-step form](https://johnmwendwa.github.io/advanced-multi-step-form/)
- 7. [Age Calculator](https://johnmwendwa.github.io/age-calculator/)
+ 6. [workking to create a Ai powered Chat box ]
+ 7.
 
   <h3 style="color:#2E2E2E; font-family: Arial, sans-serif;">Connect with Me</h3>
   <p>
