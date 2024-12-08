@@ -28,6 +28,16 @@
     <a href="mailto:emmanuelmakau90@gmail.com" style="color: #FF6600; text-decoration: none;">emmanuelmakau90@gmail.com</a>
   </p>
 
+  ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30" /> My Recent Projects 
+
+ 1. [Vet management system](https://vet-management-system.vercel.app/)
+ 2. [Movies website](https://react-movies-lac.vercel.app/)
+ 3. [Photo search gallery](https://next-gallery-johnmwendwa.vercel.app/)
+ 4. [Time tracking dashboard](https://johnmwendwa.github.io/time-tracking-dashboard/)
+ 5. [Blog for all developers](https://developers-home.vercel.app/)
+ 6. [Multi-step form](https://johnmwendwa.github.io/advanced-multi-step-form/)
+ 7. [Age Calculator](https://johnmwendwa.github.io/age-calculator/)
+
   <h3 style="color:#2E2E2E; font-family: Arial, sans-serif;">Connect with Me</h3>
   <p>
     <a href="https://www.linkedin.com/in/emmanuel-makau-40a12028b/" target="_blank" style="margin-right: 10px;">
