@@ -35,8 +35,8 @@
  3. [Full stack doctors Appointments System](https://healthcare-project-sepia.vercel.app/)
  4. [My Portfolio ](https://portfolio-zeta-tawny-92.vercel.app/)
  5. [Blog for all developers](https://developers-home.vercel.app/)
- 6. [workking to create a Ai powered Chat box ]
- 7.
+ 6. Working to create a Ai powered Chat box 
+
 
   <h3 style="color:#2E2E2E; font-family: Arial, sans-serif;">Connect with Me</h3>
   <p>
@@ -97,7 +97,7 @@
   </p>
 </div>
 
-<h3 align="left">GitHub Metrics:</h3>
+<h3 align="left"> My GitHub Metrics:</h3>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Emmanuel10701&show_icons=true&locale=en&layout=compact" alt="EmmanuelJuma" /></p>
 
