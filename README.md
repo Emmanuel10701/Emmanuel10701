@@ -1,32 +1,33 @@
- <h1 align="center" style="color:#00B300; font-family: Arial, sans-serif;">👋 Hello, I'm Emmanuel</h1>
-<h3 align="center" style="color:#007BFF; font-family: Arial, sans-serif;">A Passionate Full-Stack Developer from Nairobi, Kenya</h3>
+# **👋 Hello, I'm Emmanuel**  
 
-<div align="start" style="background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%); padding: 20px; border-radius: 15px; max-width: 600px; margin: 0 auto;">
-  
-  <h3 style="color:#2E2E2E; font-family: Arial, sans-serif;">About Me</h3>
-  <p style="color:#555; font-size: 16px; line-height: 1.6;">
-    I'm a  full-stack developer focused on building innovative web applications with a blend of robust front-end and back-end technologies. Some of my latest projects include:
-  </p>
- <ul style="list-style-type: none; padding: 0;">
-  <li style="color: #00B300; font-size: 16px;">🔭 <strong>Appointment Doctor System</strong></li>
-  <li style="color: #00B300; font-size: 16px;">🌱 <strong>Job Hiring Platform</strong></li>
-</ul>
+### **A Passionate Full-Stack Developer from Nairobi, Kenya**  
 
-<p style="background-color: #f7f7f7; color: #555; font-size: 16px; padding: 10px; border-radius: 8px; line-height: 1.6;">
-  Specializing in building dynamic web applications with 
-  <strong style="color:#FF6600;">Next.js 14</strong> (JavaScript, React) and 
-  <strong style="color:#FF6600;">Django REST API</strong>, with a focus on clean, maintainable, and scalable code.
-</p>
+---
 
-</div>
+## **About Me**  
 
-<div style="margin-top: 20px; max-width: 600px; margin: 0 auto; text-align: center;">
-  
-  <h3 style="color:#2E2E2E; font-family: Arial, sans-serif;">Contact Me</h3>
-  <p style="color:#555; font-size: 16px;">
-    I'm always open to discussing web development and new project opportunities! You can reach me at:
-    <a href="mailto:emmanuelmakau90@gmail.com" style="color: #FF6600; text-decoration: none;">emmanuelmakau90@gmail.com</a>
-  </p>
+I'm a full-stack developer focused on building innovative web applications with a blend of robust front-end and back-end technologies. Some of my latest projects include:  
+
+- 🔭 **Appointment Doctor System**  
+- 🌱 **Job Hiring Platform**  
+
+---
+
+### **Skills and Expertise**  
+
+Specializing in building dynamic web applications with:  
+- **Next.js 14** (JavaScript, React)  
+- **Django REST API**  
+
+I prioritize clean, maintainable, and scalable code for every project I work on.  
+
+---
+
+## **Contact Me**  
+
+I'm always open to discussing web development and new project opportunities! You can reach me at:  
+📧 [emmanuelmakau90@gmail.com](mailto:emmanuelmakau90@gmail.com)  
+
 
   ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30" /> My Recent Projects 
 
