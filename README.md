@@ -103,7 +103,10 @@ I'm always open to discussing web development and new project opportunities! You
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Emmanuel10701&show_icons=true&locale=en&layout=compact" alt="EmmanuelJuma" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Emmanuel10701&show_icons=true&locale=en" alt="EmmanuelJuma" /></p>
-[![Emmanuel Juma's current streak](https://streak-stats.demolab.com/?user=Emmanuel10701&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Emmanuel10701" alt="GitHub Streak Stats for EmmanuelJuma" />
+</p>
 
 
 
