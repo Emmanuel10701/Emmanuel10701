@@ -6,7 +6,7 @@
 
 ## **About Me**  
 
-I'm a full-stack developer focused on building innovative web applications with a blend of robust front-end and back-end technologies. Some of my latest projects include:  
+I'm a full-stack developer focused on building innovative web applications with a blend of robust front-end and back-end technologies. Some of my latest projects include
 
 - 🔭 **Appointment Doctor System**  
 - 🌱 **Job Hiring Platform**  
