@@ -34,16 +34,19 @@ I prioritize clean, maintainable, and scalable code for every project I work on.
  6. Working to create a Ai powered Chat box 
 
 
-  <h3 style="color:#2E2E2E; font-family: Arial, sans-serif;">Connect with Me</h3>
-  <p>
-    <a href="https://www.linkedin.com/in/emmanuel-makau-40a12028b/" target="_blank" style="margin-right: 10px;">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="30"/>
-    </a>
-    <a href="https://stackoverflow.com/users/26565337/emmanuel-makau" target="_blank" style="margin-left: 10px;">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="30"/>
-    </a>
-  </p>
-</div>
+  ## 🌍Connect With Me
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/akarshjha03/">
+    <img src="https://www.linkedin.com/in/emmanuel-makau-40a12028b/" alt="LinkedIn"/>
+  </a>
+  <a href="https://stackoverflow.com/users/22983041/akarsh-jha">
+    <img src="https://stackoverflow.com/users/26565337/emmanuel-makau" alt="Stack Overflow"/>
+  </a>
+  <a href="mailto:emmanuelmakau90@gmail.com">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=gmail" alt="Gmail"/>
+  </a>
+</div
 
 <div style="text-align: center; background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%); padding: 20px; border-radius: 15px; margin: 20px auto; max-width: 800px;">
 <table><tr><td valign="top" width="33%">
