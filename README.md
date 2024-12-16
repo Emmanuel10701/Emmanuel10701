@@ -100,42 +100,35 @@ I'm always open to discussing web development and new project opportunities! You
 
 <h3 align="center">My GitHub Metrics:</h3>
 
+## 📊 Profile Stats
+
+<p align="center">
+  <a href="https://github.com/Emmanuel10701">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Emmanuel10701&theme=default&border=CCCCCC&background=FFFFFF" alt="Emmanuel's GitHub streak" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Emmanuel10701">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Emmanuel10701&theme=default" alt="Emmanuel's GitHub Contribution" />
+  </a>
+</p>
+
 <table align="center">
   <tr>
-    <!-- GitHub Stats -->
     <td valign="top">
-      <a href="https://github.com/Emmanuel10701">
-        <img src="https://github-readme-stats.vercel.app/api?username=Emmanuel10701&show_icons=true&locale=en&theme=chartreuse-dark&border_color=00FF00&bg_color=1A1B27&title_color=00FF00&icon_color=00FF00" 
-             alt="Emmanuel's GitHub Stats" height="192px" width="100%"/>
-      </a>
+        <a href="https://github.com/Emmanuel10701">
+            <img alt="Emmanuel's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Emmanuel10701&show_icons=true&count_private=true&theme=default&border_color=CCCCCC&bg_color=FFFFFF&title_color=000000&icon_color=000000" height="192px" width="100%"/>
+        </a>
     </td>
-    <!-- Top Languages -->
     <td valign="top">
-      <a href="https://github.com/Emmanuel10701">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Emmanuel10701&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&border_color=00FF00&bg_color=1A1B27&title_color=00FF00&icon_color=00FF00" 
-             alt="Emmanuel's Top Languages" height="192px" width="100%"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <!-- Streak Stats -->
-    <td colspan="2" align="center">
-      <a href="https://github.com/Emmanuel10701">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Emmanuel10701&theme=chartreuse-dark&border_color=00FF00&bg_color=1A1B27&title_color=00FF00&icon_color=00FF00" 
-             alt="GitHub Streak Stats for Emmanuel" width="100%"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <!-- Contribution Summary -->
-    <td colspan="2" align="center">
-      <a href="https://github.com/Emmanuel10701">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Emmanuel10701&theme=chartreuse-dark" 
-             alt="Emmanuel's GitHub Contribution Summary" width="100%"/>
-      </a>
+        <a href="https://github.com/Emmanuel10701">
+            <img alt="Emmanuel's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Emmanuel10701&langs_count=8&layout=compact&theme=default&border_color=CCCCCC&bg_color=FFFFFF&title_color=000000&icon_color=000000" height="192px" width="100%"/>
+        </a>
     </td>
   </tr>
 </table>
+
 
 
 
