@@ -38,15 +38,16 @@ I prioritize clean, maintainable, and scalable code for every project I work on.
 
 <div align="center">
   <a href="https://www.linkedin.com/in/emmanuel-makau-40a12028b/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
   </a>
   <a href="https://stackoverflow.com/users/26565337/emmanuel-makau">
-    <img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow"/>
+    <img src="https://skillicons.dev/icons?i=stackoverflow" alt="Stack Overflow"/>
   </a>
   <a href="mailto:emmanuelmakau90@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=gmail" alt="Gmail"/>
   </a>
 </div>
+
 
 
 <div style="text-align: center; background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%); padding: 20px; border-radius: 15px; margin: 20px auto; max-width: 800px;">
