@@ -102,6 +102,12 @@ I'm always open to discussing web development and new project opportunities! You
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Emmanuel10701&show_icons=true&locale=en&layout=compact" alt="EmmanuelJuma" /></p>
 
+<p align="center">
+  <a href="https://github.com/Akarshjha03">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Akarshjha03&theme=merko" alt="Akarsh's GitHub Contribution"/>
+  </a>
+</p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Emmanuel10701&show_icons=true&locale=en" alt="EmmanuelJuma" /></p>
 
 <p align="center">
