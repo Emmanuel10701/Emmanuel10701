@@ -69,7 +69,7 @@ I prioritize clean, maintainable, and scalable code for every project I work on.
 
 ### Tools  
 <div align="center">  
-<img style="margin: 10px" src="https://skillicons.dev/icons?i=,vscode,aws,bash,postman,figma,vite,mongodb,mysql,postgres&perline=6" alt="Tools" />
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=vscode,aws,bash,postman,figma,vite,mongodb,mysql,postgres&perline=6" alt="Tools" />
 </div>
 </td></tr></table>  <br/> 
  
