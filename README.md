@@ -23,11 +23,6 @@ I prioritize clean, maintainable, and scalable code for every project I work on.
 
 ---
 
-## **Contact Me**  
-
-I'm always open to discussing web development and new project opportunities! You can reach me at:  
-📧 [emmanuelmakau90@gmail.com](mailto:emmanuelmakau90@gmail.com)  
-
 
   ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30" /> My Recent Projects 
 
@@ -55,21 +50,21 @@ I'm always open to discussing web development and new project opportunities! You
 
 ### Languages
 <div align="center">  
-<!-- <img style="margin: 10px" src="https://skillicons.dev/icons?i=html,css,js,php,py,java,c,matlab,dart,nodejs,sass,mysql&perline=6" alt="Languages" /> -->
-<img style="margin: 10px" src="https://skillicons.dev/icons?i=python,java,c,html,css,git,js,ts,swift,kotlin,svg,solidity&perline=6" alt="Languages" />
+<!-- <img style="margin: 10px" src="https://skillicons.dev/icons?i=html,css,js,py,c,dart,nodejs,sass,mysql&perline=6" alt="Languages" /> -->
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=python,c,html,css,git,js,ts,swift,svg,solidity&perline=6" alt="Languages" />
 </div>
 </td><td valign="top" width="33%">
 
 ### Frameworks  
 <div align="center">
-<!-- <img style="margin: 10px" src="https://skillicons.dev/icons?i=bootstrap,tailwindcss,astro,react,nextjs,flask,django,tensorflow,flutter,jquery&perline=6" alt="Frameworks" /> -->
-<img style="margin: 10px" src="https://skillicons.dev/icons?i=tailwindcss,react,nodejs,express,redux,fastapi,redis,graphql,vitest,pytorch,sklearn,tensorflow&perline=6" alt="Frameworks" />
+<!-- <img style="margin: 10px" src="https://skillicons.dev/icons?i=bootstrap,tailwindcss,react,nextjs,django,tensorflow&perline=6," alt="Frameworks" /> -->
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=tailwindcss,react,nodejs,express,redux,pytorch,sklearn,tensorflow&perline=6" alt="Frameworks" />
 </div>
 </td><td valign="top" width="33%">
 
 ### Tools  
 <div align="center">  
-<img style="margin: 10px" src="https://skillicons.dev/icons?i=raspberrypi,vscode,androidstudio,aws,bash,postman,figma,firebase,vite,mongodb,mysql,postgres&perline=6" alt="Tools" />
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=raspberrypi,vscode,aws,bash,postman,figma,vite,mongodb,mysql,postgres&perline=6" alt="Tools" />
 </div>
 </td></tr></table>  <br/> 
  
@@ -77,7 +72,6 @@ I'm always open to discussing web development and new project opportunities! You
 
 <h3 align="center">My GitHub Metrics:</h3>
 
-## 📊 Profile Stats
 
 <p align="center">
   <a href="https://github.com/Emmanuel10701">
