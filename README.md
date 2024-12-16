@@ -51,14 +51,14 @@ I prioritize clean, maintainable, and scalable code for every project I work on.
 ### Languages
 <div align="center">  
 <!-- <img style="margin: 10px" src="https://skillicons.dev/icons?i=html,css,js,py,c,dart,nodejs,sass,mysql&perline=6" alt="Languages" /> -->
-<img style="margin: 10px" src="https://skillicons.dev/icons?i=python,c,html,css,git,js,ts,swift,svg,solidity&perline=6" alt="Languages" />
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=python,c,html,css,git,js,ts&perline=6" alt="Languages" />
 </div>
 </td><td valign="top" width="33%">
 
 ### Frameworks  
 <div align="center">
 <!-- <img style="margin: 10px" src="https://skillicons.dev/icons?i=bootstrap,tailwindcss,react,nextjs,django,tensorflow&perline=6," alt="Frameworks" /> -->
-<img style="margin: 10px" src="https://skillicons.dev/icons?i=tailwindcss,react,nodejs,express,redux,pytorch,sklearn,tensorflow&perline=6" alt="Frameworks" />
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=tailwindcss,react,django,nodejs,express,redux,pytorch,sklearn,tensorflow&perline=6" alt="Frameworks" />
 </div>
 </td><td valign="top" width="33%">
 
