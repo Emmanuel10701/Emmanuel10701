@@ -1,6 +1,6 @@
 # **👋 Hello, I'm Emmanuel**  
 
-### **A Passionate Full-Stack Developer from Nairobi, Kenya**  
+### **A Passionate Full-Stack Developer from Nairobi, Kenya** 
 
 ---
 
@@ -29,7 +29,7 @@ I prioritize clean, maintainable, and scalable code for every project I work on.
  1. [Full stack E_commerce  system](https://e-commerce-market-site.vercel.app/)
  2. [ Full stack Apartment rental listings website](https://apartments-site-rental.vercel.app/)
  3. [Full stack doctors Appointments System](https://healthcare-project-sepia.vercel.app/)
- 4. [My Portfolio ](https://portfolio-zeta-tawny-92.vercel.app/)
+ 4. [My Portfolio ](https://my-portfolio-livid-seven-75.vercel.app/)
  5. [Blog for all developers](https://developers-home.vercel.app/)
  6. Working to create a Ai powered Chat box 
 
