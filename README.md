@@ -18,7 +18,7 @@ I'm a full-stack developer focused on building innovative web applications with 
 Specializing in building dynamic web applications with:  
 - **Next.js 14** (JavaScript, React)  
 - **Django REST API**  
-- **Machine learning and Artificial Neural Networks **  
+- **Machine learning and Artificial Neural Networks**  
 
 I prioritize clean, maintainable, and scalable code for every project I work on.  
 
