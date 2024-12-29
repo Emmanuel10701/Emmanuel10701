@@ -26,13 +26,13 @@ I prioritize clean, maintainable, and scalable code for every project I work on.
 
 
   ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30" /> My Recent Projects 
+1. [Blog for all developers](https://developers-home.vercel.app/)
+2. [Full stack Doctors Appointments System](https://healthcare-project-sepia.vercel.app/)
+3. [Full stack E-commerce system](https://e-commerce-market-site.vercel.app/)
+4. [Full stack Apartment rental listings website](https://apartments-site-rental.vercel.app/)
+5. [My Portfolio](https://my-portfolio-livid-seven-75.vercel.app/)
+6. Working to create an AI-powered Chatbot
 
- 1. [Full stack E_commerce  system](https://e-commerce-market-site.vercel.app/)
- 2. [ Full stack Apartment rental listings website](https://apartments-site-rental.vercel.app/)
- 3. [Full stack doctors Appointments System](https://healthcare-project-sepia.vercel.app/)
- 4. [My Portfolio ](https://my-portfolio-livid-seven-75.vercel.app/)
- 5. [Blog for all developers](https://developers-home.vercel.app/)
- 6. Working to create a Ai powered Chat box 
 
 
   ## 🌍Connect With Me
