@@ -19,6 +19,7 @@ Specializing in building dynamic web applications with:
 - **Next.js 14** (JavaScript, React)  
 - **Django REST API**  
 - **Machine learning and Artificial Neural Networks**  
+- **DevOps CI/CD intergration with GitLab and Jenkins**  
 
 I prioritize clean, maintainable, and scalable code for every project I work on.  
 
