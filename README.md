@@ -33,7 +33,7 @@ I prioritize clean, maintainable, and scalable code for every project I work on.
 3. [Full stack E-commerce system](https://e-commerce-market-site.vercel.app/)
 4. [Full stack Apartment rental listings website](https://apartments-site-rental.vercel.app/)
 5. [My Portfolio](https://my-portfolio-livid-seven-75.vercel.app/)
-6. Working to create an AI-powered Chatbot
+6. Working to create an AI Powered Model for age ethnicity and Gender Prediction
 
 
 
