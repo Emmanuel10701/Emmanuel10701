@@ -10,6 +10,7 @@ I'm a full-stack developer focused on building innovative web applications with 
 
 - 🔭 **Appointment Doctor System**  
 - 🌱 **Job Hiring Platform**  
+- 🌎 **Artificial intelligence Model For age, Ethnicity and Gender Model**  
 
 ---
 
