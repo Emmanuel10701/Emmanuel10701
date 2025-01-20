@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=55ca27&center=true&width=1100&height=100&lines=%3C+ HI+👋🏼+EMMANUEL+JUMA+%2F+%3E)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=60&pause=1000&color=55ca27&center=true&width=1100&height=100&lines=%3C+ HI 👋🏼 EMMANUEL+JUMA+%2F+%3E)](https://git.io/typing-svg)
 
 ### **_A Passionate Full-Stack Developer from Nairobi, Kenya_**
 
