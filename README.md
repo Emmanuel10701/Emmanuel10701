@@ -7,7 +7,7 @@
 
 ## **About Me**  
 
-I'm a full-stack developer with a strong foundation in AI and web development. I have hands-on experience building applications using Django for the backend and React/Next.js for the frontend. Recently, I worked on AI-powered features using TensorFlow, integrating them with my web apps. I also set up CI/CD pipelines with Docker and Azure to streamline deployments. My focus is on delivering scalable, high-performing solutions that solve real-world challenges.
+I'm a full-stack developer with a strong foundation in AI and web development. I have hands-on experience building applications using Django for the backend and React/Next.js for the frontend. Recently, I worked on AI-powered features using TensorFlow, integrating them with my web apps. I also set up CI/CD pipelines with Docker, Jenkins, Gitlab and Azure to streamline deployments. My focus is on delivering scalable, high-performing solutions that solve real-world challenges.
 - 🔭 **Appointment Doctor System**  
 - 🌱 **Job Hiring Platform**  
 - 🌎 **Artificial intelligence Model For age, Ethnicity and Gender Model**  
