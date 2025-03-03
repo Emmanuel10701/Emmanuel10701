@@ -104,7 +104,7 @@ I prioritize clean, maintainable, and scalable code for every project I work on.
     </td>
     <td valign="top">
         <a href="https://github.com/Emmanuel10701">
-            <img alt="Emmanuel's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Emmanuel10701&langs_count=8&layout=compact&theme=default&border_color=CCCCCC&bg_color=FFFFFF&title_color=000000&icon_color=000000" height="192px" width="100%"/>
+            <img alt="Emmanuel's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Emmanuel10701&langs_count=8&layout=compact&theme=chartreuse-dark&border_color=00FF00&bg_color=1A1B27&title_color=00FF00&icon_color=00FF00" height="192px" width="100%"/>
         </a>
     </td>
   </tr>
