@@ -85,7 +85,7 @@ I prioritize clean, maintainable, and scalable code for every project I work on.
 
 <p align="center">
   <a href="https://github.com/Emmanuel10701">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Emmanuel10701&theme=default&border=CCCCCC&background=FFFFFF" alt="Emmanuel's GitHub streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Emmanuel10701&theme=chartreuse-dark&border=00FF00&background=1A1B27" alt="Emmanuel's GitHub streak" />
   </a>
 </p>
 
