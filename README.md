@@ -39,7 +39,7 @@ I prioritize clean, maintainable, and scalable code for every project I work on.
 
 
 
-  ## 🌍Connect With Me
+  ## 🌍Connect Me
 
 <div align="center">
   <a href="https://www.linkedin.com/in/emmanuel-makau-40a12028b/">
