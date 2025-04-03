@@ -1,7 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&pause=1000&color=55ca27&center=true&width=1100&height=100&lines=👋🏻+Am+Emmanuel+Juma+a+Full+stack+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&pause=1000&color=55ca27&center=true&width=1100&height=100&lines=👋🏻+Am+Emmanuel+Juma+a+Full+stack+software+engineer)](https://git.io/typing-svg)
 
 
-### **_A Passionate Full-Stack Developer from Nairobi, Kenya_**
+### **_A Passionate Full-Stack software engineer from Nairobi, Kenya_**
 
 ---
 
