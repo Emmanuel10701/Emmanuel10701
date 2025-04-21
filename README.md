@@ -120,7 +120,6 @@ I prioritize clean, maintainable, and scalable code for every project I work on.
 
 ## 🐍Devouring Code, One Contribution at a Time!
 <!--- Snake Animation -->
-![Snake animation](https://github.com/Akarshjha03/Akarshjha03/blob/output/github-snake-dark.svg)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="full">
 
