@@ -89,12 +89,6 @@ I prioritize clean, maintainable, and scalable code for every project I work on.
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/Emmanuel10701">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Emmanuel10701&theme=merko" alt="Emmanuel's GitHub Contribution" />
-  </a>
-</p>
-
 <table align="center">
   <tr>
     <td valign="top">
@@ -109,6 +103,11 @@ I prioritize clean, maintainable, and scalable code for every project I work on.
     </td>
   </tr>
 </table>
+<p align="center">
+  <a href="https://github.com/Emmanuel10701">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Emmanuel10701&theme=merko" alt="Emmanuel's GitHub Contribution" />
+  </a>
+</p>
 
 
 
