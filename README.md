@@ -88,7 +88,11 @@ I prioritize clean, maintainable, and scalable code for every project I work on.
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Emmanuel10701&theme=chartreuse-dark&border=00FF00&background=1A1B27" alt="Emmanuel's GitHub streak" />
   </a>
 </p>
-
+<p align="center">
+  <a href="https://github.com/Emmanuel10701">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Emmanuel10701&theme=merko" alt="Emmanuel's GitHub Contribution" />
+  </a>
+</p>
 <table align="center">
   <tr>
     <td valign="top">
@@ -103,11 +107,7 @@ I prioritize clean, maintainable, and scalable code for every project I work on.
     </td>
   </tr>
 </table>
-<p align="center">
-  <a href="https://github.com/Emmanuel10701">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Emmanuel10701&theme=merko" alt="Emmanuel's GitHub Contribution" />
-  </a>
-</p>
+
 
 
 
