@@ -16,15 +16,38 @@ I'm a software engineer with a strong foundation in AI and web development. I ha
 
 ---
 
-### **Skills and Expertise**  
+### **Skills and Expertise**
 
-Specializing in building dynamic web applications with:  
+**Frontend Development**  
 - **Next.js 14** (JavaScript, React)  
-- **Django REST API**  
-- **Machine learning and Artificial Neural Networks**  
-- **DevOps CI/CD intergration with GitLab and Jenkins**  
+- **JavaScript** (ES6+)  
+- **Tailwind CSS**  
+- **React**  
 
-I prioritize clean, maintainable, and scalable code for every project I work on.  
+**Backend Development**  
+- **Django REST API**  
+- **Node.js**  
+- **Python**  
+- **Express.js**  
+
+**Database Technologies**  
+- **PostgreSQL**  
+- **MongoDB**  
+- **MySQL**  
+
+**Machine Learning & AI**  
+- **Machine Learning**  
+- **Large Language Models (LLMs)** (including **Ollama**)  
+- **Artificial Neural Networks**  
+
+**DevOps & CI/CD**  
+- **GitHub Actions**  
+- **GitLab CI/CD**  
+- **Jenkins**  
+
+I prioritize clean, maintainable, and scalable code for every project I work on.
+
+---
 
 ---
 
