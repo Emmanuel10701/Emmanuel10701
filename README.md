@@ -18,36 +18,15 @@ I'm a software engineer with a strong foundation in AI and web development. I ha
 
 ### **Skills and Expertise**
 
-**Frontend Development**  
-- **Next.js 14** (JavaScript, React)  
-- **JavaScript** (ES6+)  
-- **Tailwind CSS**  
-- **React**  
-
-**Backend Development**  
-- **Django REST API**  
-- **Node.js**  
-- **Python**  
-- **Express.js**  
-
-**Database Technologies**  
-- **PostgreSQL**  
-- **MongoDB**  
-- **MySQL**  
-
-**Machine Learning & AI**  
-- **Machine Learning**  
-- **Large Language Models (LLMs)** (including **Ollama**)  
-- **Artificial Neural Networks**  
-
-**DevOps & CI/CD**  
-- **GitHub Actions**  
-- **GitLab CI/CD**  
-- **Jenkins**  
+| **Category**                | **Skills**                                                                                      |
+|-----------------------------|--------------------------------------------------------------------------------------------------|
+| **Frontend Development**     | Next.js 14 (JavaScript, React), JavaScript (ES6+), React, Tailwind CSS                          |
+| **Backend Development**      | Django REST API, Node.js, Python, Express.js                                                     |
+| **Machine Learning & AI**    | Machine Learning, Large Language Models (LLMs) including Ollama, Artificial Neural Networks      |
+| **DevOps & CI/CD**           | GitHub Actions, GitLab CI/CD, Jenkins                                                           |
+| **Databases**                | PostgreSQL, MongoDB, MySQL                                                                      |
 
 I prioritize clean, maintainable, and scalable code for every project I work on.
-
----
 
 ---
 
