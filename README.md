@@ -21,7 +21,7 @@ I'm a software engineer with a strong foundation in AI and web development. I ha
 | **Category**                | **Skills**                                                                                      |
 |-----------------------------|--------------------------------------------------------------------------------------------------|
 | **Frontend Development**     | Next.js 14 (JavaScript, React), JavaScript (ES6+), React, Tailwind CSS                          |
-| **Backend Development**      | Django REST API, Node.js, Python, Express.js                                                     |
+| **Backend Development**      | Django REST API, Node.js, Python                                                   |
 | **Machine Learning & AI**    | Machine Learning, Large Language Models (LLMs) including Ollama, Artificial Neural Networks      |
 | **DevOps & CI/CD**           | GitHub Actions, GitLab CI/CD, Jenkins                                                           |
 | **Databases**                | PostgreSQL, MongoDB, MySQL                                                                      |
