@@ -8,7 +8,8 @@
 
 ## **About Me**  
 
-I'm a software engineer with a strong foundation in AI and web development. I have hands-on experience building applications using Django for the backend and React/Next.js for the frontend. Recently, I worked on AI-powered features using TensorFlow, integrating them with my web apps. I also set up CI/CD pipelines with Docker, Jenkins, Gitlab and Azure to streamline deployments. My focus is on delivering scalable, high-performing solutions that solve real-world challenges.
+I'm a mathematics student and software engineer with a strong foundation in AI and web development. I have hands-on experience building applications using Django for the backend and React/Next.js for the frontend. Recently, I developed AI-powered features using TensorFlow, seamlessly integrating them with my web applications. I also configured CI/CD pipelines using Docker, Jenkins, GitLab, and Azure to streamline deployment processes.
+My focus is on delivering scalable, high-performing solutions that address real-world problems.
  I’m currently working on
 
 - 🔭 **Appointment Doctor System**  
