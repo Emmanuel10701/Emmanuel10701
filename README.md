@@ -25,7 +25,7 @@ My focus is on delivering scalable, high-performing solutions that address real-
 | **Frontend Development**     | Next.js 14 (JavaScript, React), JavaScript (ES6+), React, Tailwind CSS                          |
 | **Backend Development**      | Django REST API, Node.js, Python                                                   |
 | **Machine Learning & AI**    | Machine Learning, Large Language Models (LLMs) including Ollama, Artificial Neural Networks      |
-| **DevOps & CI/CD**           | GitHub Actions, GitLab CI/CD, Jenkins                                                           |
+| **DevOps & CI/CD**           | GitHub Actions, GitLab CI/CD, Jenkins,Azure                                                           |
 | **Databases**                | PostgreSQL, MongoDB, MySQL                                                                      |
 
 I prioritize clean, maintainable, and scalable code for every project I work on.
