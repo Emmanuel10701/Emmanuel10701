@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&pause=1000&color=55ca27&center=true&width=1100&height=100&lines=👋🏻+Am+Emmanuel+a+Full+stack+software+engineer)](https://git.io/typing-svg)
 
 
-###  **_A Mathematics Student and Passionate Full-Stack Software Engineer from Nairobi, Kenya_**
+###  **_A Mathematics Student and Passionate Full-Stack Software Engineer from Kenya_**
 
 
 ---
