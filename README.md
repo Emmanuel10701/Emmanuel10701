@@ -47,17 +47,14 @@ I specialize in creating end-to-end solutions - from AI model development with *
     <td align="center" width="33%">
       <h3>🚀 Languages</h3>
       <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,c,git&perline=4" alt="Languages" />
-      <p><small>Python • JavaScript • TypeScript • HTML/CSS • C</small></p>
     </td>
     <td align="center" width="33%">
       <h3>⚡ Frameworks</h3>
       <img src="https://skillicons.dev/icons?i=react,nextjs,django,nodejs,express,tailwind,redux,tensorflow,pytorch&perline=4" alt="Frameworks" />
-      <p><small>React • Next.js • Django • Node.js • Tailwind</small></p>
     </td>
     <td align="center" width="33%">
       <h3>🛠️ Tools & DevOps</h3>
       <img src="https://skillicons.dev/icons?i=docker,aws,azure,gitlab,jenkins,postman,vscode,postgres,mongodb,mysql&perline=4" alt="Tools" />
-      <p><small>Docker • AWS • Azure • PostgreSQL • MongoDB</small></p>
     </td>
   </tr>
 </table>
