@@ -70,8 +70,10 @@ I specialize in creating end-to-end solutions - from AI model development with *
 ### **📈 Development Overview**
 <table>
   <tr>
-    <td>
-      <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Emmanuel10701&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&border_color=00FF00&bg_color=1A1B27&title_color=00FF00&icon_color=00FF00"/>
+        <td valign="top">
+        <a href="https://github.com/Emmanuel10701">
+            <img alt="Emmanuel's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Emmanuel10701&show_icons=true&count_private=true&theme=chartreuse-dark&border_color=00FF00&bg_color=1A1B27&title_color=00FF00&icon_color=00FF00" height="192px" width="100%"/>
+        </a>
     </td>
     <td>
       <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emmanuel10701&layout=compact&langs_count=8&theme=chartreuse-dark&border_color=00FF00&bg_color=1A1B27&title_color=00FF00"/>
