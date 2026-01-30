@@ -82,7 +82,7 @@ I specialize in creating end-to-end solutions - from AI model development with *
 </table>
 
 ### **🔥 Contribution Streak**
-<img src="https://streak-stats.demolab.com/?user=Emmanuel10701&theme=chartreuse-dark&border=00FF00&background=1A1B27" alt="GitHub Streak" />
+![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=Emmanuel10701&theme=chartreuse-dark&border=00FF00&background=1A1B27)
 
 ### **📊 Activity Insights**
 <img src="https://github-readme-stats.vercel.app/api?username=Emmanuel10701&show_icons=true&theme=merko&border_color=00FF00&include_all_commits=true&count_private=true" alt="GitHub Stats" />
