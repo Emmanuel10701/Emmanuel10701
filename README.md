@@ -82,14 +82,16 @@ I specialize in creating end-to-end solutions - from AI model development with *
 </table>
 
 ### **🔥 Contribution Streak**
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Emmanuel10701&theme=chartreuse-dark&border=00FF00&background=1A1B27" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=Emmanuel10701&theme=chartreuse-dark&border=00FF00&background=1A1B27" alt="GitHub Streak" />
 
 ### **📊 Activity Insights**
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Emmanuel10701&theme=merko" alt="Profile Details" />
+<img src="https://github-readme-stats.vercel.app/api?username=Emmanuel10701&show_icons=true&theme=merko&border_color=00FF00&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 
 ### **🏆 GitHub Trophies**
-<img src="https://github-profile-trophy.vercel.app/?username=Emmanuel10701&theme=chartreuse-dark&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+<img src="https://github-trophies.vercel.app/?username=Emmanuel10701&theme=matrix&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 
+### **📈 Most Used Languages**
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emmanuel10701&layout=compact&theme=merko&langs_count=8" alt="Top Languages" />
 </div>
 
 ---
