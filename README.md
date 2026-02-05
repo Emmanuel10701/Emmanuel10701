@@ -70,8 +70,26 @@ I specialize in creating end-to-end solutions - from AI model development with *
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=Emmanuel10701&theme=onedark&row=2&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Emmanuel10701&theme=gruvbox&rank=SECRET,SSS,SS,S,AAA,AA,A,B&margin-w=15&margin-h=15&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Emmanuel10701&theme=flat&no-bg=true&no-frame=true&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+[![Emmanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Emmanuel10701&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_title=false)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Emmanuel10701&theme=default&hide_border=true&background=FFFFFF&stroke=CCCCCC)](https://git.io/streak-stats)
 
 </div>
 
