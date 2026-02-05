@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Emmanuel - Full Stack AI Engineer
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&pause=1000&color=55ca27&center=true&width=1100&height=100&lines=🚀+Full+Stack+AI+Engineer;+Mathematics+Student;🤖+AI+%26+ML+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&pause=1000&color=55ca27&center=true&width=1100&height=100&lines=🚀+Full+Stack+AI+Engineer;📐+Mathematics+Student;🤖+AI+%26+ML+Engineer)](https://git.io/typing-svg)
 
 ### **Mathematics Student & Passionate AI Engineer Building Intelligent Solutions**
 
@@ -62,57 +62,103 @@ I specialize in creating end-to-end solutions - from AI model development with *
 </div>
 
 ---
-
-## 📊 GitHub Analytics
+### 📊 GitHub Analytics Dashboard
 
 <div align="center">
 
-### **📈 Development Overview**
-<table>
-  <tr>
-        <td valign="top">
-        <a href="https://github.com/Emmanuel10701">
-            <img alt="Emmanuel's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Emmanuel10701&show_icons=true&count_private=true&theme=chartreuse-dark&border_color=00FF00&bg_color=1A1B27&title_color=00FF00&icon_color=00FF00" height="192px" width="100%"/>
-        </a>
-    </td>
-    <td>
-      <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emmanuel10701&layout=compact&langs_count=8&theme=chartreuse-dark&border_color=00FF00&bg_color=1A1B27&title_color=00FF00"/>
-    </td>
-  </tr>
-</table>
+#### **🔥 Contribution Streak**
 
-### **🔥 Contribution Streak**
-![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=Emmanuel10701&theme=chartreuse-dark&hide_border=false&border_radius=10&stroke=00FF00&background=1A1B27)
+<a href="https://github.com/Emmanuel10701">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Emmanuel10701&theme=dark&border_radius=12&border=7F00FF&background=0D1117&stroke=7F00FF&ring=7F00FF&fire=FF5E5B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF" alt="GitHub Streak" height="200" />
+</a>
 
-### **📊 Activity Insights**
-<img src="https://github-readme-stats.vercel.app/api?username=Emmanuel10701&show_icons=true&theme=merko&border_radius=10&border_color=00FF00&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+#### **📈 Activity Overview**
 
-### **🏆 GitHub Trophies**
-<img src="https://github-trophies.vercel.app/?username=Emmanuel10701&theme=matrix&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin: 20px 0;">
+
+<!-- Contribution Graph -->
+<a href="https://github.com/Emmanuel10701">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Emmanuel10701&theme=react-dark&bg_color=0D1117&color=7F00FF&line=FF5E5B&point=FFFFFF&area=true&hide_border=true&radius=12" alt="Activity Graph" height="250" />
+</a>
+
+<!-- Profile Details Card -->
+<a href="https://github.com/Emmanuel10701">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Emmanuel10701&theme=radical&border_radius=12" alt="Profile Details" height="250" />
+</a>
+
+</div>
+
+#### **📊 Performance Metrics**
+
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+
+<!-- Stats Card - Purple Theme -->
+<div style="flex: 1; min-width: 300px;">
+  <a href="https://github.com/Emmanuel10701">
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Emmanuel10701&show_icons=true&count_private=true&theme=radical&border_radius=12&border_color=7F00FF&bg_color=0D1117&title_color=7F00FF&icon_color=FF5E5B&text_color=FFFFFF&custom_title=GitHub%20Statistics" alt="Stats" height="200" />
+  </a>
+</div>
+
+<!-- Languages Card - Blue Theme -->
+<div style="flex: 1; min-width: 300px;">
+  <a href="https://github.com/Emmanuel10701">
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Emmanuel10701&langs_count=8&layout=compact&theme=blue-green&border_radius=12&border_color=00B4D8&bg_color=0D1117&title_color=00B4D8&text_color=FFFFFF&custom_title=Top%20Languages" alt="Top Languages" height="200" />
+  </a>
+</div>
+
+</div>
+
+#### **🏆 Achievement Cards**
+
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center; margin-top: 20px;">
+
+<!-- Commits Card -->
+<a href="https://github.com/Emmanuel10701">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Emmanuel10701&theme=vue&border_radius=12" alt="Most Commits" height="180" />
+</a>
+
+<!-- Repos Card -->
+<a href="https://github.com/Emmanuel10701">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Emmanuel10701&theme=vue&border_radius=12" alt="Repos per Language" height="180" />
+</a>
+
+<!-- Stats Card -->
+<a href="https://github.com/Emmanuel10701">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Emmanuel10701&theme=vue&border_radius=12" alt="Stats" height="180" />
+</a>
+
+</div>
+
+#### **🌟 GitHub Trophies**
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Emmanuel10701&theme=matrix&no-frame=true&row=2&column=4&margin-w=15&margin-h=15&rank=-C,-B" alt="GitHub Trophies" />
+</p>
+
+</div>
 ---
 
 ## 🌍 Connect With Me
 
 <div align="center">
   <a href="https://www.linkedin.com/in/emmanuel-makau-40a12028b/">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" style="margin: 0 10px;"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" style="margin: 0 10px; width: 50px; height: 50px;"/>
   </a>
   <a href="https://stackoverflow.com/users/26565337/emmanuel-makau">
-    <img src="https://skillicons.dev/icons?i=stackoverflow" alt="Stack Overflow" style="margin: 0 10px;"/>
+    <img src="https://skillicons.dev/icons?i=stackoverflow" alt="Stack Overflow" style="margin: 0 10px; width: 50px; height: 50px;"/>
   </a>
   <a href="mailto:emmanuelmakau90@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" style="margin: 0 10px;"/>
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" style="margin: 0 10px; width: 50px; height: 50px;"/>
   </a>
   <a href="https://github.com/Emmanuel10701">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" style="margin: 0 10px;"/>
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" style="margin: 0 10px; width: 50px; height: 50px;"/>
   </a>
 </div>
 
-
+---
 
 ## 🏆 Open Source Journey
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-  
-
+</div>
