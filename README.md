@@ -23,9 +23,7 @@ I specialize in creating end-to-end solutions - from AI model development with *
 - **🤖 AI-Powered Doctor Appointment System** - Intelligent scheduling with predictive analytics.
 - **💼 Smart Job Hiring Platform** - AI-driven candidate matching and assessment.
 - **👥 Multi-Modal AI Model** - Age, ethnicity, and gender recognition system using Deep Learning.
-
 - **🔍 RAG Applications** - Building retrieval-augmented generation systems with LangChain and Vector Databases.
-
 
 ---
 
@@ -68,31 +66,41 @@ I specialize in creating end-to-end solutions - from AI model development with *
 </div>
 
 ---
-### My Github Metrics
 
+## 🏆 GitHub Trophies
+
+<div align="center">
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=Emmanuel10701&theme=onedark&row=2&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 📊 My Github Metrics
 
 <p align="center">
-  <a href="https://github.com/Clinton1029">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Clinton1029&theme=default&border=CCCCCC&background=FFFFFF" alt="Clinton's GitHub streak" />
+  <a href="https://github.com/Emmanuel10701">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Emmanuel10701&theme=default&border=CCCCCC&background=FFFFFF" alt="Emmanuel's GitHub streak" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Clinton1029">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Clinton1029&theme=default" alt="Clinton's GitHub Contribution" />
+  <a href="https://github.com/Emmanuel10701">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Emmanuel10701&theme=default" alt="Emmanuel's GitHub Contribution" />
   </a>
 </p>
 
 <table align="center">
   <tr>
     <td valign="top">
-        <a href="https://github.com/Clinton1029">
-            <img alt="Clinton's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Clinton1029&show_icons=true&count_private=true&theme=default&border_color=CCCCCC&bg_color=FFFFFF&title_color=000000&icon_color=000000" height="192px" width="100%"/>
+        <a href="https://github.com/Emmanuel10701">
+            <img alt="Emmanuel's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Emmanuel10701&show_icons=true&count_private=true&theme=default&border_color=CCCCCC&bg_color=FFFFFF&title_color=000000&icon_color=000000" height="192px" width="100%"/>
         </a>
     </td>
    <td valign="top">
-        <a href="https://github.com/Clinton1029">
-            <img alt="Clinton's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Clinton1029&langs_count=8&layout=compact&theme=default&border_color=CCCCCC&bg_color=FFFFFF&title_color=000000&icon_color=000000" height="192px" width="100%"/>
+        <a href="https://github.com/Emmanuel10701">
+            <img alt="Emmanuel's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Emmanuel10701&langs_count=8&layout=compact&theme=default&border_color=CCCCCC&bg_color=FFFFFF&title_color=000000&icon_color=000000" height="192px" width="100%"/>
         </a>
     </td>
   </tr>
@@ -100,7 +108,7 @@ I specialize in creating end-to-end solutions - from AI model development with *
 
 ---
 
-## 🏆 Open Source Journey
+## 🚀 Open Source Journey
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
