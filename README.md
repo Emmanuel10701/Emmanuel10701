@@ -67,13 +67,6 @@ I specialize in creating end-to-end solutions - from AI model development with *
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Emmanuel10701&theme=gruvbox&rank=SECRET,SSS,SS,S,AAA,AA,A,B&margin-w=15&margin-h=15&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
 
 ## 🏆 GitHub Trophies
 
@@ -83,51 +76,41 @@ I specialize in creating end-to-end solutions - from AI model development with *
 
 </div>
 
-## 🏆 GitHub Achievements
+---
+## 📊 My GitHub Metrics
 
 <div align="center">
 
-[![Emmanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Emmanuel10701&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_title=false)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Emmanuel10701&theme=default&hide_border=true&background=FFFFFF&stroke=CCCCCC)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 📊 My Github Metrics
-
+### **🔥 Contribution Streak**
 <p align="center">
   <a href="https://github.com/Emmanuel10701">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Emmanuel10701&theme=default&border=CCCCCC&background=FFFFFF" alt="Emmanuel's GitHub streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Emmanuel10701&theme=chartreuse-dark&hide_border=false&border_radius=10&background=0D1117&stroke=00FF00&ring=00FF00&fire=00FF00&currStreakNum=00FF00" alt="Emmanuel's GitHub streak" />
   </a>
 </p>
 
+### **📅 Contribution Profile**
 <p align="center">
   <a href="https://github.com/Emmanuel10701">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Emmanuel10701&theme=default" alt="Emmanuel's GitHub Contribution" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Emmanuel10701&theme=chartreuse-dark" alt="Emmanuel's GitHub Contribution" />
   </a>
 </p>
 
+### **📈 Development Statistics**
 <table align="center">
   <tr>
-    <td valign="top">
-        <a href="https://github.com/Emmanuel10701">
-            <img alt="Emmanuel's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Emmanuel10701&show_icons=true&count_private=true&theme=default&border_color=CCCCCC&bg_color=FFFFFF&title_color=000000&icon_color=000000" height="192px" width="100%"/>
-        </a>
+    <td valign="top" width="50%">
+      <a href="https://github.com/Emmanuel10701">
+        <img alt="Emmanuel's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Emmanuel10701&show_icons=true&count_private=true&theme=chartreuse-dark&border_color=00FF00&bg_color=0D1117&title_color=00FF00&icon_color=00FF00&border_radius=10" height="192px"/>
+      </a>
     </td>
-   <td valign="top">
-        <a href="https://github.com/Emmanuel10701">
-            <img alt="Emmanuel's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Emmanuel10701&langs_count=8&layout=compact&theme=default&border_color=CCCCCC&bg_color=FFFFFF&title_color=000000&icon_color=000000" height="192px" width="100%"/>
-        </a>
+    <td valign="top" width="50%">
+      <a href="https://github.com/Emmanuel10701">
+        <img alt="Emmanuel's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Emmanuel10701&langs_count=8&layout=compact&theme=chartreuse-dark&border_color=00FF00&bg_color=0D1117&title_color=00FF00&icon_color=00FF00&border_radius=10" height="192px"/>
+      </a>
     </td>
   </tr>
 </table>
 
----
-
-## 🚀 Open Source Journey
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
+
+---
