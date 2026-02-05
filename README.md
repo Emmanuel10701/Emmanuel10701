@@ -1,8 +1,12 @@
 # 👋 Hi, I'm Emmanuel - Full Stack AI Engineer
 
+<div align="center">
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&pause=1000&color=55ca27&center=true&width=1100&height=100&lines=🚀+Full+Stack+AI+Engineer;+Mathematics+Student;🤖+AI+%26+ML+Engineer)](https://git.io/typing-svg)
 
 ### **Mathematics Student & Passionate AI Engineer Building Intelligent Solutions**
+
+</div>
 
 ---
 
@@ -16,10 +20,12 @@ I specialize in creating end-to-end solutions - from AI model development with *
 
 ## 🚀 Current Projects
 
-- **🤖 AI-Powered Doctor Appointment System** - Intelligent scheduling with predictive analytics
-- **💼 Smart Job Hiring Platform** - AI-driven candidate matching and assessment  
-- **👥 Multi-Modal AI Model** - Age, ethnicity, and gender recognition system
-- **🔍 RAG Applications** - Building retrieval-augmented generation systems with LangChain
+- **🤖 AI-Powered Doctor Appointment System** - Intelligent scheduling with predictive analytics.
+- **💼 Smart Job Hiring Platform** - AI-driven candidate matching and assessment.
+- **👥 Multi-Modal AI Model** - Age, ethnicity, and gender recognition system using Deep Learning.
+
+- **🔍 RAG Applications** - Building retrieval-augmented generation systems with LangChain and Vector Databases.
+
 
 ---
 
@@ -38,7 +44,7 @@ I specialize in creating end-to-end solutions - from AI model development with *
 
 ## 💻 Technical Proficiencies
 
-<div align="center" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 25px; border-radius: 15px; margin: 20px auto; max-width: 900px;">
+<div align="center">
 
 ### 🎯 Core Competencies
 
@@ -68,51 +74,42 @@ I specialize in creating end-to-end solutions - from AI model development with *
 <div align="center">
 
 ### **📈 Development Overview**
-<table>
+
+<table align="center">
   <tr>
-        <td valign="top">
-        <a href="https://github.com/Emmanuel10701">
-            <img alt="Emmanuel's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Emmanuel10701&show_icons=true&count_private=true&theme=chartreuse-dark&border_color=00FF00&bg_color=1A1B27&title_color=00FF00&icon_color=00FF00" height="192px" width="100%"/>
-        </a>
+    <td valign="top" width="50%">
+      <a href="https://github.com/Emmanuel10701">
+        <img alt="Emmanuel's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Emmanuel10701&show_icons=true&count_private=true&theme=chartreuse-dark&border_color=00FF00&bg_color=1A1B27&title_color=00FF00&icon_color=00FF00" height="192px"/>
+      </a>
     </td>
-    <td>
-      <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emmanuel10701&layout=compact&langs_count=8&theme=chartreuse-dark&border_color=00FF00&bg_color=1A1B27&title_color=00FF00"/>
+    <td valign="top" width="50%">
+      <a href="https://github.com/Emmanuel10701">
+        <img alt="Emmanuel's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Emmanuel10701&langs_count=8&layout=compact&theme=chartreuse-dark&border_color=00FF00&bg_color=1A1B27&title_color=00FF00&icon_color=00FF00" height="192px"/>
+      </a>
     </td>
   </tr>
 </table>
 
 ### **🔥 Contribution Streak**
-![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=Emmanuel10701&theme=chartreuse-dark&hide_border=false&border_radius=10&stroke=00FF00&background=1A1B27)
 
-### **📊 Activity Insights**
-<img src="https://github-readme-stats.vercel.app/api?username=Emmanuel10701&show_icons=true&theme=merko&border_radius=10&border_color=00FF00&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<p align="center">
+  <a href="https://github.com/Emmanuel10701">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Emmanuel10701&theme=chartreuse-dark&border=00FF00&background=1A1B27&stroke=00FF00" alt="Emmanuel's GitHub streak" />
+  </a>
+</p>
 
 ### **🏆 GitHub Trophies**
-<img src="https://github-trophies.vercel.app/?username=Emmanuel10701&theme=matrix&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
----
 
-## 🌍 Connect With Me
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Emmanuel10701&theme=matrix&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</p>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/emmanuel-makau-40a12028b/">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" style="margin: 0 10px;"/>
-  </a>
-  <a href="https://stackoverflow.com/users/26565337/emmanuel-makau">
-    <img src="https://skillicons.dev/icons?i=stackoverflow" alt="Stack Overflow" style="margin: 0 10px;"/>
-  </a>
-  <a href="mailto:emmanuelmakau90@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" style="margin: 0 10px;"/>
-  </a>
-  <a href="https://github.com/Emmanuel10701">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" style="margin: 0 10px;"/>
-  </a>
 </div>
 
-
+---
 
 ## 🏆 Open Source Journey
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-  
-
+</div>
