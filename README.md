@@ -1,119 +1,148 @@
-# 👋 Hi, I'm Emmanuel
+# 👋 Hi, I'm Emmanuel - Full Stack AI Engineer
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=500&color=55ca27&center=true&vCenter=true&width=800&lines=Full+Stack+AI+Engineer;Mathematics+Student;AI+%26+ML+Enthusiast;Building+Intelligent+Solutions" alt="Typing SVG" />
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&pause=1000&color=55ca27&center=true&width=1100&height=100&lines=🚀+Full+Stack+AI+Engineer;+Mathematics+Student;🤖+AI+%26+ML+Engineer)](https://git.io/typing-svg)
+
+### **Mathematics Student & Passionate AI Engineer Building Intelligent Solutions**
+
 </div>
 
 ---
 
 ## 📖 About Me
 
-I'm a **Mathematics student** and **Full Stack AI Engineer** passionate about building intelligent applications that solve real-world problems. My mathematical background provides a strong analytical foundation for AI development, while my engineering skills allow me to create end-to-end solutions from concept to deployment.
+I'm a mathematics student and software engineer with expertise in full-stack development and artificial intelligence. I build intelligent applications using modern technologies like **LangChain**, **LangGraph**, and **LLMs** alongside robust web frameworks. My background in mathematics gives me a strong analytical foundation for solving complex problems in AI and software engineering.
 
-- 🎓 **Education:** Mathematics Student
-- 🤖 **Focus Areas:** AI/ML Development, Full Stack Engineering, RAG Systems
-- 🔭 **Currently Building:** AI-powered applications with LangChain and LangGraph
-- 🌱 **Learning:** Advanced LLM architectures and MLOps practices
-- 💡 **Goal:** Create AI solutions that make a meaningful impact
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-| **Category** | **Technologies** |
-|--------------|------------------|
-| **🤖 AI/ML** | TensorFlow, PyTorch, LangChain, LangGraph, Ollama, LLMs |
-| **💻 Frontend** | React, Next.js, TypeScript, Tailwind CSS, Redux |
-| **⚡ Backend** | Python, Django, FastAPI, Node.js, Express |
-| **🗄️ Databases** | PostgreSQL, MongoDB, MySQL, Redis |
-| **☁️ DevOps** | Docker, AWS, Azure, GitLab CI/CD, Jenkins |
-| **🔧 Tools** | Git, VS Code, Postman, Bash |
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-### **🔥 Activity Graph**
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Emmanuel10701&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=55ca27&line=55ca27&point=FFFFFF)](https://github.com/Emmanuel10701)
-
-### **📈 Contribution Stats**
-
-<table>
-  <tr>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=Emmanuel10701&show_icons=true&count_private=true&theme=chartreuse-dark&bg_color=0D1117&border_color=55ca27&icon_color=55ca27&title_color=55ca27&hide_border=false&border_radius=10" alt="GitHub Stats" />
-    </td>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emmanuel10701&langs_count=8&layout=compact&theme=chartreuse-dark&bg_color=0D1117&border_color=55ca27&title_color=55ca27&hide_border=false&border_radius=10" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
-
-### **🏆 GitHub Trophies**
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Emmanuel10701&theme=onedark&row=2&column=4&margin-w=15&margin-h=15&no-frame=false&no-bg=false)](https://github.com/ryo-ma/github-profile-trophy)
-
-### **📅 Contribution Summary**
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Emmanuel10701&theme=chartreuse-dark" alt="Contribution Summary" />
-
-### **⚡ Streak Stats**
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Emmanuel10701&theme=chartreuse-dark&hide_border=false&border=55ca27&background=0D1117" alt="GitHub Streak" />
-
-### **📊 Repository Stats**
-
-<table>
-  <tr>
-    <td width="33%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Emmanuel10701&theme=chartreuse-dark" />
-    </td>
-    <td width="33%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Emmanuel10701&theme=chartreuse-dark" />
-    </td>
-    <td width="33%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Emmanuel10701&theme=chartreuse-dark" />
-    </td>
-  </tr>
-</table>
-
-</div>
+I specialize in creating end-to-end solutions - from AI model development with **TensorFlow** and **PyTorch** to deploying scalable applications using **Django** and **React/Next.js**. I'm passionate about integrating cutting-edge AI capabilities into practical, real-world applications.
 
 ---
 
 ## 🚀 Current Projects
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **AI Doctor Appointment System** | Intelligent scheduling with predictive analytics and automated reminders | Python, Django, TensorFlow, React |
-| **Smart Job Hiring Platform** | AI-driven candidate matching and skill assessment system | Next.js, FastAPI, LangChain, PostgreSQL |
-| **Multi-Modal AI Model** | Age, ethnicity, and gender recognition using deep learning | PyTorch, OpenCV, TensorFlow |
-| **RAG Applications** | Retrieval-augmented generation systems with vector databases | LangChain, LangGraph, Pinecone, Ollama |
+- **🤖 AI-Powered Doctor Appointment System** - Intelligent scheduling with predictive analytics.
+- **💼 Smart Job Hiring Platform** - AI-driven candidate matching and assessment.
+- **👥 Multi-Modal AI Model** - Age, ethnicity, and gender recognition system using Deep Learning.
+- **🔍 RAG Applications** - Building retrieval-augmented generation systems with LangChain and Vector Databases.
 
 ---
 
-## 📫 Connect With Me
+## 🛠️ Skills & Expertise
+
+| **Category** | **Technologies & Tools** |
+|--------------|--------------------------|
+| **🤖 AI & Machine Learning** | <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" /> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white" /> <img src="https://img.shields.io/badge/LangGraph-FF6B6B?style=flat&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/LLMs-4A154B?style=flat&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/Ollama-00FF00?style=flat&logo=ai&logoColor=black" /> |
+| **💻 Frontend Development** | <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,tailwind,css,html,redux" /> |
+| **⚡ Backend Development** | <img src="https://skillicons.dev/icons?i=python,django,nodejs,express,fastapi" /> |
+| **🗄️ Databases** | <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis" /> |
+| **🛠️ DevOps & Tools** | <img src="https://skillicons.dev/icons?i=docker,jenkins,gitlab,azure,aws,github,git,postman,vscode,bash" /> |
+| **🔧 Languages** | <img src="https://skillicons.dev/icons?i=python,c,html,css,git,js,ts" /> |
+
+---
+
+## 💻 Technical Proficiencies
 
 <div align="center">
-  
-  [![GitHub](https://img.shields.io/badge/GitHub-Emmanuel10701-181717?style=for-the-badge&logo=github)](https://github.com/Emmanuel10701)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/emmanuel)
-  [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/emmanuel)
-  [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:emmanuel@example.com)
+
+### 🎯 Core Competencies
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <h3>🚀 Languages</h3>
+      <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,c,git&perline=4" alt="Languages" />
+    </td>
+    <td align="center" width="33%">
+      <h3>⚡ Frameworks</h3>
+      <img src="https://skillicons.dev/icons?i=react,nextjs,django,nodejs,express,tailwind,redux,tensorflow,pytorch&perline=4" alt="Frameworks" />
+    </td>
+    <td align="center" width="33%">
+      <h3>🛠️ Tools & DevOps</h3>
+      <img src="https://skillicons.dev/icons?i=docker,aws,azure,gitlab,jenkins,postman,vscode,postgres,mongodb,mysql&perline=4" alt="Tools" />
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Emmanuel10701&theme=onedark&row=2&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 🚀 Tech Stack & Tools
+
+<div align="center">
+
+### **🔥 Contribution Streak**
+<p align="center">
+  <a href="https://github.com/Emmanuel10701">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Emmanuel10701&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" />
+  </a>
+</p>
+
+### **📅 Contribution Profile**
+<p align="center">
+  <a href="https://github.com/Emmanuel10701">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Emmanuel10701&theme=chartreuse-dark" alt="Contribution Details" />
+  </a>
+</p>
+
+### **📈 Development Statistics**
+<table align="center">
+  <tr>
+    <td valign="top" width="50%">
+      <a href="https://github.com/Emmanuel10701">
+        <img alt="GitHub Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Emmanuel10701&show_icons=true&count_private=true&theme=chartreuse-dark&border_color=00FF00&bg_color=0D1117&title_color=00FF00&icon_color=00FF00&border_radius=10" height="192px"/>
+      </a>
+    </td>
+    <td valign="top" width="50%">
+      <a href="https://github.com/Emmanuel10701">
+        <img alt="Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Emmanuel10701&langs_count=8&layout=compact&theme=chartreuse-dark&border_color=00FF00&bg_color=0D1117&title_color=00FF00&icon_color=00FF00&border_radius=10" height="192px"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+## 📊 Additional Stats
+
+<div align="center">
+
+| Metric | Status |
+|--------|--------|
+| **Profile Views** | ![Profile Views](https://komarev.com/ghpvc/?username=Emmanuel10701&label=Profile%20Views&color=55ca27&style=flat-square) |
+| **Followers** | ![GitHub Followers](https://img.shields.io/github/followers/Emmanuel10701?style=social) |
+| **Stars** | ![GitHub Stars](https://img.shields.io/github/stars/Emmanuel10701?style=social) |
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Emmanuel10701&label=Profile%20Views&color=55ca27&style=flat-square" alt="Profile Views" />
-  
-  ### ⭐ **Thanks for visiting! Feel free to explore my repositories and connect with me.** ⭐
+
+### 🤝 Let's Connect
+
+[![GitHub](https://img.shields.io/badge/GitHub-Emmanuel10701-181717?style=for-the-badge&logo=github)](https://github.com/Emmanuel10701)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/emmanuel)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/emmanuel)
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ **Thanks for visiting! Feel free to explore my repositories and connect with me.** ⭐
+
 </div>
