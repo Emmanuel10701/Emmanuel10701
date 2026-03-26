@@ -71,37 +71,8 @@ I specialize in creating end-to-end solutions - from AI model development with *
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=Emmanuel10701&theme=onedark&row=2&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-profile-trophy.vercel.app/?username=Emmanuel10701&theme=onedark&column=2&row=1&no-frame=true" />
-      </td>
-      <td>
-        <img src="https://github-profile-trophy.vercel.app/?username=Emmanuel10701&theme=onedark&column=2&row=1&no-frame=true&rank=SSS,SS,S,AAA,AA,A,B" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-profile-trophy.vercel.app/?username=Emmanuel10701&theme=onedark&column=4&row=2&no-frame=true" />
-      </td>
-    </tr>
-  </table>
-</div>
 
 </details>
-
-## 📈 Activity & Contributions
-
-[![Emmanuel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Emmanuel10701&theme=react-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-## 💻 Top Languages
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emmanuel10701&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" />
-</div>
 
 ## 🚀 Tech Stack & Tools
 
@@ -114,7 +85,7 @@ I specialize in creating end-to-end solutions - from AI model development with *
 ### **🔥 Contribution Streak**
 <p align="center">
   <a href="https://github.com/Emmanuel10701">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Emmanuel10701&theme=chartreuse-dark&hide_border=false&border_radius=10&background=0D1117&stroke=00FF00&ring=00FF00&fire=00FF00&currStreakNum=00FF00" alt="Emmanuel's GitHub streak" />
+[![Emmanuel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Emmanuel10701&theme=react-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
   </a>
 </p>
 
