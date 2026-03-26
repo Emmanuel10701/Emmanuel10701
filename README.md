@@ -46,6 +46,10 @@ I specialize in creating end-to-end solutions - from AI model development with *
 
 ### 🎯 Core Competencies
 
+<details open>
+<summary>Click to expand</summary>
+<br/>
+
 <table>
   <tr>
     <td align="center" width="33%">
@@ -63,6 +67,8 @@ I specialize in creating end-to-end solutions - from AI model development with *
   </tr>
 </table>
 
+</details>
+
 </div>
 
 ---
@@ -77,11 +83,16 @@ I specialize in creating end-to-end solutions - from AI model development with *
 
 ---
 
-## 🚀 Tech Stack & Tools
+## 📊 GitHub Metrics
 
 <div align="center">
 
 ### **🔥 Contribution Streak**
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Emmanuel10701&theme=chartreuse-dark&hide_border=false&border=55ca27&background=0D1117" alt="GitHub Streak" />
+</p>
+
+### **📈 Activity Graph**
 <p align="center">
   <a href="https://github.com/Emmanuel10701">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Emmanuel10701&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" />
@@ -115,15 +126,23 @@ I specialize in creating end-to-end solutions - from AI model development with *
 
 ---
 
-## 📊 Additional Stats
+## 📊 Repository Stats
 
 <div align="center">
 
-| Metric | Status |
-|--------|--------|
-| **Profile Views** | ![Profile Views](https://komarev.com/ghpvc/?username=Emmanuel10701&label=Profile%20Views&color=55ca27&style=flat-square) |
-| **Followers** | ![GitHub Followers](https://img.shields.io/github/followers/Emmanuel10701?style=social) |
-| **Stars** | ![GitHub Stars](https://img.shields.io/github/stars/Emmanuel10701?style=social) |
+<table>
+  <tr>
+    <td width="33%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Emmanuel10701&theme=chartreuse-dark" />
+    </td>
+    <td width="33%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Emmanuel10701&theme=chartreuse-dark" />
+    </td>
+    <td width="33%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Emmanuel10701&theme=chartreuse-dark" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
