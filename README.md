@@ -124,29 +124,7 @@ I specialize in creating end-to-end solutions - from AI model development with *
 
 </div>
 
----
 
-## 📊 Repository Stats
-
-<div align="center">
-
-<table>
-  <tr>
-    <td width="33%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Emmanuel10701&theme=chartreuse-dark" />
-    </td>
-    <td width="33%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Emmanuel10701&theme=chartreuse-dark" />
-    </td>
-    <td width="33%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Emmanuel10701&theme=chartreuse-dark" />
-    </td>
-  </tr>
-</table>
-
-</div>
-
----
 
 <div align="center">
 
