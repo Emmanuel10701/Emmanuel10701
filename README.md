@@ -72,8 +72,7 @@ I specialize in creating end-to-end solutions - from AI model development with *
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Emmanuel10701&theme=flat&no-bg=true&no-frame=true&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=Emmanuel10701&theme=onedark&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
 
 ---
