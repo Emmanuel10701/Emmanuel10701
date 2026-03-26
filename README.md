@@ -67,50 +67,31 @@ I specialize in creating end-to-end solutions - from AI model development with *
 
 ---
 
-# 👋 Hi there, I'm Emmanuel! 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F80ED&width=435&lines=Full+Stack+Developer;React+%7C+Next.js+Expert;Always+Learning+New+Things;Building+Amazing+Web+Apps)](https://git.io/typing-svg)
 
 ## 🏆 GitHub Trophies
-
-### All Trophies - Full Display
 [![trophy](https://github-profile-trophy.vercel.app/?username=Emmanuel10701&theme=onedark&row=2&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
-### Alternative Layouts
-
-<details>
-<summary>🎯 Click to see more trophy layouts</summary>
-
-<br>
-
-**Dark Theme - 3 Rows**
-[![trophy](https://github-profile-trophy.vercel.app/?username=Emmanuel10701&theme=darkhub&row=3&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-**Matrix Style**
-[![trophy](https://github-profile-trophy.vercel.app/?username=Emmanuel10701&theme=matrix&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-**Gruvbox Theme**
-[![trophy](https://github-profile-trophy.vercel.app/?username=Emmanuel10701&theme=gruvbox&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-**Tokyo Night**
-[![trophy](https://github-profile-trophy.vercel.app/?username=Emmanuel10701&theme=tokyonight&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-</details>
-
-## 📊 GitHub Statistics
+## 🏆 GitHub Trophies
 
 <div align="center">
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Emmanuel10701&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+        <img src="https://github-profile-trophy.vercel.app/?username=Emmanuel10701&theme=onedark&column=2&row=1&no-frame=true" />
       </td>
       <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Emmanuel10701&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+        <img src="https://github-profile-trophy.vercel.app/?username=Emmanuel10701&theme=onedark&column=2&row=1&no-frame=true&rank=SSS,SS,S,AAA,AA,A,B" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-profile-trophy.vercel.app/?username=Emmanuel10701&theme=onedark&column=4&row=2&no-frame=true" />
       </td>
     </tr>
   </table>
 </div>
+
+</details>
 
 ## 📈 Activity & Contributions
 
@@ -126,36 +107,6 @@ I specialize in creating end-to-end solutions - from AI model development with *
 
 <div align="center">
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### Tools & Others
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-</div>
-
-## 📊 Weekly Development Stats
-
-<!-- START_SECTION:waka -->
-```text
-React.js     15 hrs 30 mins  ████████████░░░░░░░░░░░   48.2%
-Next.js      8 hrs 45 mins   ████████░░░░░░░░░░░░░░░   27.5%
-JavaScript   5 hrs 20 mins   █████░░░░░░░░░░░░░░░░░░   16.8%
-CSS/Tailwind 2 hrs 15 mins   ██░░░░░░░░░░░░░░░░░░░░░   7.1%
-
----
 ## 📊 My GitHub Metrics
 
 <div align="center">
