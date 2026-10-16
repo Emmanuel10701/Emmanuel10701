@@ -67,21 +67,6 @@ My interests include AI agents, large language models, retrieval-augmented gener
 
 </div>
 
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Emmanuel10701)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/emmanuel)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/emmanuel)
-
-</div>
-
----
-
-<div align="center">
 
 **Always learning. Always building. Always improving.** 🚀
 
